@@ -1,0 +1,156 @@
+﻿'game.exe' (Win32): Loaded 'C:\Users\Race Nicolia\source\repos\cult\x64\Debug\game.exe'. Symbols loaded.
+'game.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\shell32.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\cfgmgr32.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\SHCore.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\bcryptprimitives.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\windows.storage.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\advapi32.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\profapi.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\powrprof.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\umpdc.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\shlwapi.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\cryptsp.dll'. 
+'game.exe' (Win32): Loaded 'C:\Users\Race Nicolia\source\repos\cult\game\SDL2.dll'. Module was built without symbols.
+'game.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\oleaut32.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\setupapi.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\bcrypt.dll'. 
+'game.exe' (Win32): Loaded 'C:\Users\Race Nicolia\source\repos\cult\game\SDL2_image.dll'. Module was built without symbols.
+'game.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\version.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\winmm.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\winmmbase.dll'. 
+The thread 0x200c has exited with code 0 (0x0).
+'game.exe' (Win32): Loaded 'C:\Windows\System32\uxtheme.dll'. 
+'game.exe' (Win32): Loaded 'C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\DellInc.AlienwareSoundCenterDevProps2.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\ws2_32.dll'. 
+'game.exe' (Win32): Loaded 'C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\NahimicOSD.dll'. 
+'game.exe' (Win32): Loaded 'C:\ProgramData\A-Volute\DellInc.AlienwareSoundCenter\Modules\ScheduledModules\x64\ProductInfo.Dll'. 
+Error 20 (this feature has not been implemented yet) in function AVolute::GetProductInfoT::<lambda_3920e95365a48b95dd51020986e9e351>::operator ()
+'game.exe' (Win32): Loaded 'C:\Windows\System32\clbcatq.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\MMDevAPI.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\devobj.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\AudioSes.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\WinTypes.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\propsys.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\avrt.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\dinput8.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\InputHost.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\CoreUIComponents.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\CoreMessaging.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\ntmarta.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\hid.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\wintrust.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\msasn1.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\crypt32.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\XInput1_4.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\msctf.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\TextInputFramework.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\iertutil.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\d3d9.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\dwmapi.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DXCore.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\aticfx64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiu9p64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiumd64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\dbghelp.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\dbgcore.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiumd6a.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\amdihk64.dll'. Module was built without symbols.
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\amdhdl64.dll'. 
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\amdhdl64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\amdihk64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiumd6a.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\dbghelp.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\dbgcore.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiumd64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiu9p64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\aticfx64.dll'
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\aticfx64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\amdxn64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\amdihk64.dll'. Module was built without symbols.
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\amdihk64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\amdxn64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\aticfx64.dll'
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\aticfx64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiu9p64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiumd64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\dbghelp.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\dbgcore.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiumd6a.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\amdihk64.dll'. Module was built without symbols.
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\amdihk64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiumd6a.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\dbghelp.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\dbgcore.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiumd64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiu9p64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\aticfx64.dll'
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\aticfx64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\amdxn64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\amdihk64.dll'. Module was built without symbols.
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\amdihk64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\amdxn64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\aticfx64.dll'
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\aticfx64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\amdxn64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\amdihk64.dll'. Module was built without symbols.
+'game.exe' (Win32): Loaded 'C:\Windows\System32\ResourcePolicyClient.dll'. 
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\ResourcePolicyClient.dll'
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiu9p64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiumd64.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\dbghelp.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\dbgcore.dll'. 
+'game.exe' (Win32): Loaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiumd6a.dll'. 
+'game.exe' (Win32): Loaded 'C:\Users\Race Nicolia\source\repos\cult\game\libpng16-16.dll'. Module was built without symbols.
+'game.exe' (Win32): Loaded 'C:\Users\Race Nicolia\source\repos\cult\game\zlib1.dll'. Module was built without symbols.
+The thread 0x276c has exited with code 0 (0x0).
+The thread 0x3bb0 has exited with code 0 (0x0).
+The thread 0x1d84 has exited with code 0 (0x0).
+The thread 0x2c24 has exited with code 0 (0x0).
+The thread 0x1a3c has exited with code 0 (0x0).
+The thread 0x2f7c has exited with code 0 (0x0).
+The thread 0x30fc has exited with code 0 (0x0).
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiumd6a.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\dbghelp.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\dbgcore.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiumd64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\atiu9p64.dll'
+The thread 0x362c has exited with code 0 (0x0).
+The thread 0x3e20 has exited with code 0 (0x0).
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\amdihk64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\amdxn64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\DriverStore\FileRepository\u0354396.inf_amd64_476f0f207a3b4488\B354383\aticfx64.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\dwmapi.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\d3d9.dll'
+The thread 0x3e98 has exited with code 0 (0x0).
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\XInput1_4.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\avrt.dll'
+'game.exe' (Win32): Unloaded 'C:\Windows\System32\dinput8.dll'
+The thread 0x2454 has exited with code 0 (0x0).
+The thread 0x43a4 has exited with code 0 (0x0).
+The thread 0x2e80 has exited with code 0 (0x0).
+The thread 0x4290 has exited with code 0 (0x0).
+The thread 0x7e4 has exited with code 0 (0x0).
+The thread 0x2ccc has exited with code 0 (0x0).
+The thread 0x4244 has exited with code 0 (0x0).
+The thread 0x2418 has exited with code 0 (0x0).
+The program '[2360] game.exe' has exited with code 0 (0x0).
